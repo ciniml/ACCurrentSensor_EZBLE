@@ -1,4 +1,4 @@
-update=2016/08/20 19:47:41
+update=2016/08/20 19:53:00
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,3 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=Cypress_BLE/Cypress_BLE
