@@ -5,4 +5,9 @@ D Cypress CY8CKIT-142 PSoC4 BLE Module
 K PSoC4 BLE Cypress
 $ENDCMP
 #
+$CMP CYBLE-014008-00
+D Cypress CYBLE-014008-00 EZ-BLE PSoC Module
+K PSoC4 BLE Cypress
+$ENDCMP
+#
 #End Doc Library
