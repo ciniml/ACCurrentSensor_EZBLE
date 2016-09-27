@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CSR
+D Current Regulative Diode
+K CSR,Diode
+$ENDCMP
+#
 #End Doc Library
